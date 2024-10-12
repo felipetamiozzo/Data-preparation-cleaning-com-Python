@@ -1,5 +1,5 @@
 # Desafio-5-DNC---Data-Preparation-com-Python
-Fazendo o Data preparation/Data cleaning de uma base de dados de uma empresa de ecommerce.
+Fazendo o Data preparation/Data cleaning e análises de uma base de dados de uma empresa de ecommerce.
 
 Desafio: Prepare seu Dataset para Modelagem de Dados
 
