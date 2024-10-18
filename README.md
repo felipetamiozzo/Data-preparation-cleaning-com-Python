@@ -1,7 +1,6 @@
-# Desafio-5-DNC---Data-Preparation-com-Python
+# Data-Preparation-com-Python
 Fazendo o Data preparation/Data cleaning e análises de uma base de dados de uma empresa de ecommerce.
 
-Desafio: Prepare seu Dataset para Modelagem de Dados
 
 ## Introdução
 Este repositório contém um desafio de preparação de dados para a modelagem. O objetivo é aplicar conhecimentos de limpeza e organização de dados (data cleaning & data wrangling) para estruturar uma base de dados para modelagem. Dominar essas habilidades é fundamental na carreira de um cientista de dados.
